@@ -1,4 +1,7 @@
 Release history for MyTodo
 
 0.000
-    ...
+    - Add MyTodo main module
+    - Patch MooX::Options
+    - Add mytodo.pl utility
+    - Add mytodo-web.{pl|conf} web app
